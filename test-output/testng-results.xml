@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48158" started-at="2019-07-19T10:43:01Z" finished-at="2019-07-19T10:43:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48158" started-at="2019-07-19T10:43:01Z" finished-at="2019-07-19T10:43:49Z">
+      <class name="testmeapp.tests.OnlineShoppingTest">
+        <test-method status="PASS" signature="startReportbeforeTest()[pri:0, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="startReportbeforeTest" is-config="true" duration-ms="9211" started-at="2019-07-19T10:43:01Z" finished-at="2019-07-19T10:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReportbeforeTest -->
+        <test-method status="PASS" signature="testRegistration()[pri:1, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="testRegistration" duration-ms="6190" started-at="2019-07-19T10:43:10Z" finished-at="2019-07-19T10:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="getResultafterMethod()[pri:0, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="getResultafterMethod" is-config="true" duration-ms="451" started-at="2019-07-19T10:43:16Z" finished-at="2019-07-19T10:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultafterMethod -->
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="testLogin" duration-ms="496" started-at="2019-07-19T10:43:17Z" finished-at="2019-07-19T10:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="getResultafterMethod()[pri:0, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="getResultafterMethod" is-config="true" duration-ms="75" started-at="2019-07-19T10:43:17Z" finished-at="2019-07-19T10:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultafterMethod -->
+        <test-method status="PASS" signature="testCart()[pri:3, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="testCart" duration-ms="11571" started-at="2019-07-19T10:43:17Z" finished-at="2019-07-19T10:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="getResultafterMethod()[pri:0, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="getResultafterMethod" is-config="true" duration-ms="54" started-at="2019-07-19T10:43:29Z" finished-at="2019-07-19T10:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultafterMethod -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="testPayment" duration-ms="19621" started-at="2019-07-19T10:43:29Z" finished-at="2019-07-19T10:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="getResultafterMethod()[pri:0, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="getResultafterMethod" is-config="true" duration-ms="96" started-at="2019-07-19T10:43:48Z" finished-at="2019-07-19T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultafterMethod -->
+        <test-method status="PASS" signature="endReportafterTest()[pri:0, instance:testmeapp.tests.OnlineShoppingTest@59f99ea]" name="endReportafterTest" is-config="true" duration-ms="346" started-at="2019-07-19T10:43:49Z" finished-at="2019-07-19T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReportafterTest -->
+      </class> <!-- testmeapp.tests.OnlineShoppingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
